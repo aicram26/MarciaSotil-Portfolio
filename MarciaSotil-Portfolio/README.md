@@ -1,2 +1,0 @@
-# MarciaSotil-Portfolio
-Website Portfolio
