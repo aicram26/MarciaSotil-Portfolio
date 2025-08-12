@@ -1,0 +1,1 @@
+Place your project images (project1.jpg ... project4.jpg) and 3D models in /src/assets/
